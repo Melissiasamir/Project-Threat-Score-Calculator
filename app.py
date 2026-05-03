@@ -1,3 +1,6 @@
+# to run app write: streamlit run app.py
+
+
 import streamlit as st
 from scorer import calculate_threat_score
 from history import history_log
